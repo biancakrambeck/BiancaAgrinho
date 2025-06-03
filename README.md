@@ -1,4 +1,4 @@
-# Impacto dos residuos de minerios nos rios
+# Cuidados para se ter durante as ondas de calor no Paraná
 Este projeto é uma página web informativa sobre os Cuidados para ter durante as ondas de calor e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os cuidados, suas consequências e as ações necessárias para mitigar seus efeitos.
 
 ### Estrutura do Projeto
